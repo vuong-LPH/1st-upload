@@ -13,4 +13,4 @@ This repository contains a java Project to simulate some of math methods found i
 2. [Email](mailto: vuonglph1204@gmail.com)
 
 
-####  2020 by giao.lang | FPT University, HCMC 
+#### Ⓒ 2020 by giao.lang | FPT University, HCMC 
