@@ -34,8 +34,8 @@ public void getFactorial_Runswell_IfValidArgument() {
     assertEquals(1,getFactorial(0));   
 }
 
-@Test (expected = SQLException.class)
-//@Test (expected = IllegalArgumentException.class)
+//@Test (expected = SQLException.class)
+@Test (expected = IllegalArgumentException.class)
 public void getFactorial_ThrowsException_IfInvalidArgument() {
 //    ngoai le khong phai la value de assert()
 // chi co the chup no lai
